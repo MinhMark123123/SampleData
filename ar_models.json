@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Duck",
+    "image": "https://raw.githubusercontent.com/MinhMark123123/SampleData/main/images/duck.png",
+    "url_download": "https://raw.githubusercontent.com/MinhMark123123/SampleData/main/models/Duck.gltf"
+  },
+  {
+    "name": "Chair",
+    "image": "https://raw.githubusercontent.com/MinhMark123123/SampleData/main/images/chair.jpg",
+    "url_download": "https://raw.githubusercontent.com/MinhMark123123/SampleData/main/models/SheenChair.gltf"
+  },
+  {
+    "name": "Desk",
+    "image": "https://raw.githubusercontent.com/MinhMark123123/SampleData/main/images/desk.png",
+    "url_download": "https://raw.githubusercontent.com/MinhMark123123/SampleData/main/models/SDHome_Anim_03.glb"
+  }
+]
